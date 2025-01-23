@@ -2,7 +2,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Dynamically generated GitHub stats for READMEs!</p>
- <p align="center">The original project was made by Anurag Hazra. This fork only exists so I can host my own on Vercel.</p>
+ <p align="center">The original <a href="https://github.com/anuraghazra/github-readme-stats">project</a> was made by Anurag Hazra. This repo only exists so I can host my own on Vercel.</p>
 </p>
  
 # GitHub Stats Card
